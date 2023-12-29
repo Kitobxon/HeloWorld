@@ -1,2 +1,1 @@
-# nevich
-Birinchi programma
+#Hello
